@@ -1,0 +1,7 @@
+C:\Users\pro19\source\repos\clsPeopleDataAccess\bin\Debug\clsPeopleDataAccess.dll
+C:\Users\pro19\source\repos\clsPeopleDataAccess\bin\Debug\clsPeopleDataAccess.pdb
+C:\Users\pro19\source\repos\clsPeopleDataAccess\obj\Debug\clsDataAccess.csproj.AssemblyReference.cache
+C:\Users\pro19\source\repos\clsPeopleDataAccess\obj\Debug\clsDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pro19\source\repos\clsPeopleDataAccess\obj\Debug\clsPeopleDataAccess.dll
+C:\Users\pro19\source\repos\clsPeopleDataAccess\obj\Debug\clsPeopleDataAccess.pdb
+C:\Users\pro19\source\repos\clsPeopleDataAccess\bin\Debug\clsPeopleDataAccess.dll.config
